@@ -8,7 +8,7 @@ I set up AI around how businesses actually work, and I build websites and small 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square)
+![Codex](https://img.shields.io/badge/-Codex-412991?style=flat-square)
 ![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
@@ -22,7 +22,7 @@ I set up AI around how businesses actually work, and I build websites and small 
 
 ## Contributing to
 
-- 🔒 **[OpenSesame](https://github.com/open-cogsci/OpenSesame/security/advisories/GHSA-vh42-vg85-3hxq)** - found and [fixed](https://github.com/open-cogsci/OpenSesame/pull/835) a code-execution hole where opening a shared experiment file could run arbitrary code (CVE pending)
+- 🔒 **[OpenSesame](https://github.com/open-cogsci/OpenSesame/security/advisories/GHSA-vh42-vg85-3hxq)** - found and [fixed](https://github.com/open-cogsci/OpenSesame/pull/835) a code-execution hole where opening an experiment file could run arbitrary code (CVE pending)
 - 🧳 **[mcporter](https://github.com/openclaw/mcporter/pulls?q=is%3Apr+author%3Azm2231+is%3Amerged)** - built `mcporter serve`, which shares daemon-managed MCP servers with every agent, plus daemon lifecycle fixes
 - 🤗 **[swift-transformers](https://github.com/huggingface/swift-transformers/pull/395)** - tokenizers that match the Rust implementation on Unicode code points
 - 💬 **[vercel/chat](https://github.com/vercel/chat/pull/173)** - streaming responses for the Slack adapter
